@@ -15,10 +15,9 @@ A quantitative description of short-term plasticity at excitatory synapses in la
 
 2. For information about NEURON's model description language NMODL and how to compile mod files see the Documentation page at NEURON's WWW site ([http://www.neuron.yale.edu/](http://www.neuron.yale.edu/)), especially the FAQ link on that page.
 
+---
 Updated 20110810 by NTC for compatibility with recent versions of NEURON.
 
 Contact ted.carnevale@yale.edu if you have questions about this implementation of the model described by Varela et al.
 
----
-
-2025-05-27 – Standardized to Markdown.
+Standardized to Markdown 20250527
